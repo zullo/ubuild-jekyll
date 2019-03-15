@@ -12,6 +12,9 @@ page_sections:
   col_1:
     content: <img src="/uploads/ae-salon-orig.jpg">
     headline: Małe
+  col_2:
+    headline: Duże
+    content: <img src="/uploads/cam-salon.jpg">
 - template: simple-footer
   block: footer-1
 published: false
