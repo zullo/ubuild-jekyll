@@ -16,7 +16,7 @@ page_sections:
     headline: Małe
   col_2:
     headline: Duże
-    content: <img src="/uploads/cam-salon.jpg">
+    content: f<img src="/uploads/cam-salon.jpg">
   col_3:
     headline: Dom
     content: <img src="/uploads/papugi-main.jpg" title="Tytuł obrazka" alt="Domowe
