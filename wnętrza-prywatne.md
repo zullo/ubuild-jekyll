@@ -7,6 +7,8 @@ page_sections:
   block: header-1
 - template: 1-column-text
   block: one-column-1
+  content: Trochę tekstu jak to fajnie się mieszka
+  headline: Wnętrza prywatne
 - template: 3-column-text
   block: three-column-1
   col_1:
