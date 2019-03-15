@@ -19,7 +19,8 @@ page_sections:
     content: <img src="/uploads/cam-salon.jpg">
   col_3:
     headline: Dom
-    content: <img src="/uploads/papugi-main.jpg">
+    content: <img src="/uploads/papugi-main.jpg" title="Tytuł obrazka" alt="Domowe
+      wnętrze">
 - template: simple-footer
   block: footer-1
 published: false
