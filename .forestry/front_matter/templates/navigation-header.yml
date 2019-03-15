@@ -17,8 +17,10 @@ fields:
   - type: text
     name: link
     label: link
+    default: "/boom"
   - type: text
     name: link_text
     label: Link text
+    default: Test nav link
   config:
     labelField: link_text
