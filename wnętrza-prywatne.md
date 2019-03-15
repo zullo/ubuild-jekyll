@@ -30,6 +30,11 @@ page_sections:
       wnętrze">
 - template: simple-footer
   block: footer-1
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/cam-salon.jpg"
+    caption: bla
 menu:
   main:
     weight: 2
