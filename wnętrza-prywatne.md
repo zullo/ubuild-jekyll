@@ -35,6 +35,8 @@ page_sections:
   image_1:
     image: "/uploads/cam-salon.jpg"
     caption: bla
+  image_2:
+    image: "/uploads/papugi-main.jpg"
 menu:
   main:
     weight: 2
