@@ -1,8 +1,4 @@
 ---
-menu:
-  main:
-    weight: 2
-    title: Front Cover
 
 ---
 # Editing Your uBuild Site

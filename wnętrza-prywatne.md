@@ -23,6 +23,10 @@ page_sections:
       wnętrze">
 - template: simple-footer
   block: footer-1
+menu:
+  main:
+    weight: 2
+    title: Prywatne
 published: false
 
 ---
