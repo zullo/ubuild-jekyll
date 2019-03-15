@@ -1,3 +1,10 @@
+---
+menu:
+  main:
+    weight: 2
+    title: Front Cover
+
+---
 # Editing Your uBuild Site
 This website uses a Jekyll theme called uBuild, which was designed to use Forestry's Blocks feature to create modular page layouts.
 
