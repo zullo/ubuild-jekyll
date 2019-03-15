@@ -37,6 +37,7 @@ page_sections:
     caption: bla
   image_2:
     image: "/uploads/papugi-main.jpg"
+    caption: ble
 menu:
   main:
     weight: 2
