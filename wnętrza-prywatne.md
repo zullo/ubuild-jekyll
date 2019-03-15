@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/logo.jpg"
   navigation:
   - link: "/boom"
-    link_text: Test nav link
+    link_text: Start
   - link: "/boom"
     link_text: Wnętrza prywatne
 - template: 1-column-text
