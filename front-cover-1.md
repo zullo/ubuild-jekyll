@@ -9,3 +9,5 @@ published: false
 To jest trochę próbnego tekstu na wiadomy temat.
 
 **bardzo fajnie**
+
+![](/uploads/ae-salon-orig.jpg)
