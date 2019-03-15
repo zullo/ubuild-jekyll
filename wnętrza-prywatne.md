@@ -11,6 +11,7 @@ page_sections:
     link_text: Start
   - link: "/boom"
     link_text: Wnętrza prywatne
+  text_field: Co to ten text field?
 - template: 1-column-text
   block: one-column-1
   content: Trochę tekstu jak to fajnie się mieszka
