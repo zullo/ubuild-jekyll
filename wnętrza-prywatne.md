@@ -5,6 +5,12 @@ date: ''
 page_sections:
 - template: navigation-header
   block: header-1
+  logo: "/uploads/logo.jpg"
+  navigation:
+  - link: "/boom"
+    link_text: Test nav link
+  - link: "/boom"
+    link_text: Wnętrza prywatne
 - template: 1-column-text
   block: one-column-1
   content: Trochę tekstu jak to fajnie się mieszka
