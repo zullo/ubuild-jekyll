@@ -15,6 +15,9 @@ page_sections:
   col_2:
     headline: Duże
     content: <img src="/uploads/cam-salon.jpg">
+  col_3:
+    headline: Dom
+    content: <img src="/uploads/papugi-main.jpg">
 - template: simple-footer
   block: footer-1
 published: false
