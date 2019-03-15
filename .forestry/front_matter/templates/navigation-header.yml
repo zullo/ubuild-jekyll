@@ -24,3 +24,6 @@ fields:
     default: Test nav link
   config:
     labelField: link_text
+- type: text
+  name: text_field
+  label: Text field
