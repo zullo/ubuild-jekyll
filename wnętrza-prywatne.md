@@ -9,6 +9,9 @@ page_sections:
   block: one-column-1
 - template: 3-column-text
   block: three-column-1
+  col_1:
+    content: <img src="/uploads/ae-salon-orig.jpg">
+    headline: Małe
 - template: simple-footer
   block: footer-1
 published: false
